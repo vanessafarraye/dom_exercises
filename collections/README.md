@@ -21,18 +21,20 @@ see how to work with them.
 
 ## Part 2
 
-- Use `.getElementsByClassName` to retrieve all of the `<li>`s with
+- Use `.getElementsByClassName` to retrieve all of the elements with
   the class of `datatype`.
 - Turn all of them `red`.
 - You'll need to use the `.style.color` property.
 - You'll need to loop over each element.
 
-# Part 3
-- Find every element with a class of `function` and change its `color`
-  to `blue`.
+## Part 3
+- Use `.querySelectorAll` to retrieve all of the elements with a class
+  of `function`.
+- Use a loop to change color of each one to `blue`.
 
-# Questions
+## Questions
 
 - What are the differences between `.getElementById`,
-  `.getElementsByClassName`, and `.getElementsByTagName`.
+  `.getElementsByClassName`, `.getElementsByTagName`, and
+  `querySelectorAll`?
 - How did you loop over the lists of elements?
