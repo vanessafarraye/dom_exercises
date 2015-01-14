@@ -30,15 +30,11 @@ mouse moves, when keys are pressed, and when forms are submitted.
 - Listen for the `submit` event on the `<form>`.
 - `alert()` the text that is typed into the text field.
 - Notice that the page refreshes (see the URL bar).
-    - Use `event.preventDefault()` to prevent this from happening.
 
 ## Part 4
 
-- Move the `<script>` element into the `<head>` element.
-- All your event listeners should break.  Why? What errors do you see
-  in your JavaScript Console?
-- Listen for the `DOMContentLoaded` event and put your other code
-  inside of the new handler to get things working again.
+- Why was the page refreshing in Part 3?
+- Use `event.preventDefault()` to prevent this from happening.
 
 ## Part 5
 
@@ -48,6 +44,13 @@ mouse moves, when keys are pressed, and when forms are submitted.
 - Make sure you only use one event listener instead of adding an event
   handler to each `<li>`.
 
+## Part 6
+
+- Move the `<script>` element into the `<head>` element.
+- All your event listeners should break.  Why? What errors do you see
+  in your JavaScript Console?
+- Listen for the `DOMContentLoaded` event and put your other code
+  inside of the new handler to get things working again.
 
 ## Questions
 
