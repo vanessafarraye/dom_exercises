@@ -49,12 +49,12 @@ mouse moves, when keys are pressed, and when forms are submitted.
 - Move the `<script>` element into the `<head>` element.
 - All your event listeners should break.  Why? What errors do you see
   in your JavaScript Console?
-- Listen for the `DOMContentLoaded` event and put your other code
-  inside of the new handler to get things working again.
+- Listen for the `load` event on the `window` object and put your
+  other code inside of the new handler to get things working again.
 
 ## Questions
 
 - What does `event.preventDefault()` do?
 - Why do we listen for the `submit` event on a `<form>` instead of
   listening for the `click` event on the submit button?
-- What does the `DOMContentLoaded` event allow us to do?
+- What does the `window`'s `load` event allow us to do?
