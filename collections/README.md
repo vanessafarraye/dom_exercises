@@ -9,7 +9,8 @@ However, in this example we're going to select groups of elements and
 see how to work with them.
 
 - Look at `collections.html` and examine the HTML.
-- Also open `collections.js`. We're going to write our JavaScript here.
+- Also open `collections.js` in Sublime. We're going to write our
+  JavaScript here.
 - Open `collections.html` in Chrome.
 
 ## Part 1
