@@ -40,6 +40,15 @@ mouse moves, when keys are pressed, and when forms are submitted.
 - Listen for the `DOMContentLoaded` event and put your other code
   inside of the new handler to get things working again.
 
+## Part 5
+
+- Listen for the `click` event on the `<ul>` element.
+- Use `event.target` to see which `<li>` was clicked.
+    - `alert()` the specific vegetable that was selected.
+- Make sure you only use one event listener instead of adding an event
+  handler to each `<li>`.
+
+
 ## Questions
 
 - What does `event.preventDefault()` do?
