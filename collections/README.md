@@ -9,31 +9,27 @@ However, in this example we're going to select groups of elements and
 see how to work with them.
 
 - Look at `collections.html` and examine the HTML.
-- Also open `collections.js` in Sublime. We're going to write our
-  JavaScript here.
+- Also open `collections.js` in Sublime. We're going to write our JavaScript here.
 - Open `collections.html` in Chrome.
 
 ## Part 1
 
 - Use `.getElementsByTagName` to retrieve all of the `<li>` elements.
-- Set `.style.borderBottom` on *each* of them.
-- Notice that you'll need to loop (!) over each element in order to do
-  this.
+- Set `.style.borderBottom` on *each* of them. Become more comfortable with the `forEach` method rather than a vanilla `for` loop, it is better practice.
 
 ## Part 2
 
 - Use `.getElementsByClassName` to retrieve all of the elements with
   the class of `datatype`.
 - Turn all of them `red`.
-- You'll need to use the `.style.color` property.
-- You'll need to loop over each element.
+- Hint: you'll need to use the `.style.color` property and loop over each element.
 
 ## Part 3
 - Use `.querySelectorAll` to retrieve all of the elements with a class
   of `function`.
 - Use a loop to change color of each one to `blue`.
 
-## Questions
+## Further Questions
 
 - What are the differences between `.getElementById`,
   `.getElementsByClassName`, `.getElementsByTagName`, and
