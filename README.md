@@ -1,5 +1,9 @@
 # DOM Exercises
 
-To get started run `git clone https://github.com/sf-wdi-17/dom_exercises.git` in your terminal and then change in to the dom exercises directory with `cd dom_exercises`. Finally, open the code in sublime with `subl .`.
+To get started, fork this repository to make a copy of it on your github account. Next, clone your copy from github onto your computer.  
 
-In-class exercises to accompany the [notes](https://github.com/sf-wdi-17/notes/tree/master/lectures/week-01/_4_thursday/dusk)
+Navigate into your new `dom_exercises` directory and open the code in sublime with `subl .`. 
+
+Inside `dom_exercises`, there is a directory for each part of the lab --  `ids`, `collections`, `events`, and (bonus!) `forms`.   Each directory has its own README.md with instructions.
+
+Remember to collaborate, do smart searches, and refer back to [lecture notes](https://github.com/sf-wdi-18/notes) if needed!
