@@ -6,7 +6,7 @@
 
 ## Part 1
 
-- Use `.innerHTML` to determine the text in the label with the ID of
+- Use `.innerHTML` to determine the text in the `<label>` with the ID of
   `foodLabel`.
 - Notice that we use `.innerHTML` to retrieve the content that sits
   between the `<label>` and `</label>` tags.
