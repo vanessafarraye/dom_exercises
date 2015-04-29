@@ -27,7 +27,7 @@ mouse moves, when keys are pressed, and when forms are submitted.
 
 ## Part 3
 
-- Listen for the `submit` event on the `<form>`.
+- Add a `submit` event to the `<form>` element.
 - `alert()` the text that is typed into the text field.
 - Notice that the page refreshes (see the URL bar).
 
