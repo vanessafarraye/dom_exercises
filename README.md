@@ -1,3 +1,10 @@
+# Using Git
+
+To begin this homework first fork this repo.
+
+![fork_it](images/fork_it.png)
+
+
 # DOM Exercises
 
 To get started, fork this repository to make a copy of it on your github account. Next, clone your copy from github onto your computer.  
