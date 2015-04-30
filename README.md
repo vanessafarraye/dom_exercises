@@ -18,7 +18,7 @@
     ```bash
     cd dom_exercises
     ```
-* Play with the exercises and when your ready **push** it to GitHub using the following procedure.
+* Play with the exercises, and when you're ready **push** your changes to GitHub using the following procedure.
   
   * In the `dom_exercises/` folder, not some subfolder, run the following:
     
