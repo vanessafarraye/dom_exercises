@@ -1,8 +1,15 @@
 # Using Git
 
-To begin this homework first fork this repo.
+* To begin this homework first fork this repo.
 
-![fork_it](images/fork_it.png)
+  ![fork_it](images/fork_it.png)
+
+* Then clone it by doing the following:
+  * Copy the link to **your fork**
+
+    ![copy_it.png](images/copy_it.png) 
+  * Clone the repo
+
 
 
 # DOM Exercises
