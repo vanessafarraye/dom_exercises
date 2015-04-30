@@ -15,7 +15,7 @@ see how to work with them.
 ## Part 1
 
 - Use `.getElementsByTagName` to retrieve all of the `<li>` elements.
-- Set `.style.borderBottom` on *each* of them. Become more comfortable with the `forEach` method rather than a vanilla `for` loop, it is better practice.
+- Set `.style.borderBottom` on *each* of them.
 
 ## Part 2
 
