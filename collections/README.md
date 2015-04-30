@@ -14,12 +14,12 @@ see how to work with them.
 
 ## Part 1
 
-- Use `.getElementsByTagName` to retrieve all of the `<li>` elements.
+- Use `.querySelectorAll` to retrieve all of the `<li>` elements.
 - Set `.style.borderBottom` on *each* of them.
 
 ## Part 2
 
-- Use `.getElementsByClassName` to retrieve all of the elements with
+- Use `.querySelectorAll` to retrieve all of the elements with
   the class of `datatype`.
 - Turn all of them `red`.
 - Hint: you'll need to use the `.style.color` property and loop over each element.
