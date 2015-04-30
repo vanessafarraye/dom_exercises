@@ -9,8 +9,26 @@
 
     ![copy_it.png](images/copy_it.png) 
   * Clone the repo
+    
+    ```
+    git clone <your_copied_url from above>
+    ```
+  * Then 
 
+    ```bash
+    cd dom_exercises
+    ```
+* Play with the exercises and when your ready **push** it to GitHub using the following procedure.
+  
+  * In the `dom_exercises/` folder, not some subfolder, run the following:
+    
+  ```
+  git add . -A
+  git commit -m "my homework"
+  git push origin master
+  ```
 
+* Then sumbit the link to your fork in the homework submission form.
 
 # DOM Exercises
 
