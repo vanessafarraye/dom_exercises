@@ -28,7 +28,7 @@
   git push origin master
   ```
 
-* Then sumbit the link to your fork in the homework submission form.
+* Then submit the link to your fork in the homework submission form.
 
 # DOM Exercises
 
