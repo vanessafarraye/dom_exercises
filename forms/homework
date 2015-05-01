@@ -1,0 +1,18 @@
+//form
+var foodLabel = document.querySelector("#foodLabel")
+foodLabel.innerHTML
+// favorite food.
+
+var foodId = document.querySelector("#foodId")
+foodId.innerHTML
+// Nothing
+foodId.value
+// pizza
+
+var calmCheck = document.querySelector("#calmId")
+calmCheck.innerHTML
+// Nothing
+calmCheck.value
+// on
+calmCheck.checked
+// yay it worked

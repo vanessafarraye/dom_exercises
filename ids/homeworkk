@@ -1,0 +1,10 @@
+//IDs
+
+var mainHeading = document.querySelector("#main-heading")
+mainHeading.innerHTML = "Fun DOM Example"
+
+var diagram = document.querySelector("#diagram")
+diagram.style.height = "5000px"
+diagram.style.height = "300px"
+diagram.src = "img/dom_basic.png"
+diagram.src = "img/dom_model.svg"
